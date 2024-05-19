@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RobinHeitz
-- 👀 I’m interested in mechanical engineering (studying it at RWTH Aachen).
-- 🌱 I’m currently learning ROS2.
+- 👀 I’m interested in robotics and the application of ML in real usecases. 
+- 🌱 I’m currently learning golang.
 - 📫 How to reach me: With my github handle :)
 
 <!---
